@@ -1,6 +1,8 @@
 # Mobpro2021
 Aplikasi E-Houseware mengelola data stok peralatan rumah tangga elektronik.
 
+File APK sudah ada di dalam direktori app > release
+
 Cara penggunaan aplikasi E-Houseware :
 1. Masuk ke aplikasi
 2. Klik Create Account
