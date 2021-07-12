@@ -16,4 +16,3 @@ Anggota Kelompok 1 :
 3411181174 Gilang Danuwindu
 
 Kelas DSE-C
-
